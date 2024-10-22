@@ -1,0 +1,5 @@
+makemake
+mars
+jupiter
+uranus
+haumea
